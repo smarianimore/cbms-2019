@@ -156,7 +156,7 @@ module.exports = grunt => {
 				files: root.map(path => path + '/*.md')
 			},
 			options: {
-				livereload: true
+				livereload: false
 			}
 		}
 
