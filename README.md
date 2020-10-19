@@ -3,8 +3,9 @@
 Slides of talk "Risk Prediction as a Service: a DSS architecture promoting interoperability and collaboration" given by Stefano Mariani at the 32th IEEE International Symposium on Computer-Based Medical Systems.
 Original paper available at IEEE digital library: [https://ieeexplore.ieee.org/document/8787403](https://ieeexplore.ieee.org/document/8787403)
 
-Interactive presentation: [here](https://smarianimore.github.io/cbms-2019/)
-PDF version: [there](https://smarianimore.github.io/cbms-2019/?print-pdf)
+ * Interactive presentation: [here](https://smarianimore.github.io/cbms-2019/)
+ * PDF version: [there](https://smarianimore.github.io/cbms-2019/?print-pdf)
+
 Slides built with reveal.js (info below)
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
